@@ -1,4 +1,4 @@
-import {App} from "../components/_App"
+import App from "../components/_App"
 
 const DATA = [
   { id: "todo-0", name: "Eat", completed: true },
