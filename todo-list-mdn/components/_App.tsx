@@ -100,7 +100,7 @@ export default function App(props: any) {
       </div>
       <h2 
         id="list-heading" 
-        tabIndex="-1" 
+        tabIndex={-1}
         ref={listHeadingRef}>
         {headingText}
       </h2>
